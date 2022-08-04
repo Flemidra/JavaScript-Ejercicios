@@ -8,7 +8,7 @@ numPrimo = (Numero) => {
   return true;
 };
 
-let _Numero = 19;
+let _Numero = 4;
 numPrimo(_Numero) == true
   ? console.log(`El numero ${_Numero} es primo`)
   : console.log(`El numero ${_Numero} no es primo`);
